@@ -1,0 +1,70 @@
+{
+  "Tariyal": [
+    {
+      "id": 1,
+      "name": "Ashu",
+      "phone": 7827267431,
+      "email": "ashishtariyal04@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ashish",
+      "phone": 786627267431,
+      "email": "ashish04@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Ashufmg",
+      "phone": 782726787431,
+      "email": "ashishtariyal04@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Asssdhu",
+      "phone": 782724867431,
+      "email": "ashishtariyal04@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Asfddhu",
+      "phone": 782657267431,
+      "email": "ashishtariyal04@gmail.com"
+    },
+    {
+      "fullname": "aasss",
+      "phone": "56565",
+      "email": "dkn@gmail.com",
+      "id": 6
+    },
+    {
+      "fullname": "eed",
+      "phone": "754",
+      "email": "9897",
+      "id": 7
+    },
+    {
+      "fullname": "Ashish",
+      "phone": "7827267431",
+      "email": "ashish@gmail.com",
+      "id": 8
+    },
+    {
+      "fullname": "ram@gmail.com",
+      "phone": "07827267431",
+      "email": "punnet@gmail.com",
+      "id": 9
+    },
+    {
+      "fullname": "ram@gmail.com",
+      "phone": "07827267431",
+      "email": "punnet@gmail.com",
+      "id": 10
+    },
+    {
+      "fullname": "ashishtariyal04@gmail.com",
+      "phone": "07827267431",
+      "email": "lordpunnet@gmail.com",
+      "id": 11
+    }
+  ]
+}
